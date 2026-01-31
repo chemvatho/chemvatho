@@ -5,6 +5,8 @@
 - 📫 How to reach me by my Email: chemvatho@gmail.com
 - Donate! if you want me to continue working on these fields for Khmer language and speech technology.
 
+"Life is too short, I just want to work on what is meaningful for Khmer language and speech science"
+
 <!---
 chemvatho/chemvatho is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
